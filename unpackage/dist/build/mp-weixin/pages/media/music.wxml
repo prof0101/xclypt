@@ -1,0 +1,1 @@
+<view class="page_media data-v-05b724da" id="media_music"><view class="audio data-v-05b724da"><audio style="text-align:left;" src="{{current.src}}" poster="{{current.poster}}" name="{{current.name}}" author="{{current.author}}" action="{{audioAction}}" controls="{{true}}" class="data-v-05b724da"></audio></view></view>

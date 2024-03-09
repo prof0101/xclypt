@@ -1,0 +1,12 @@
+{
+  "navigationBarTitleText": "评论管理",
+  "usingComponents": {
+    "uni-search-bar": "/components/uni-search-bar/uni-search-bar",
+    "uni-icons": "/components/uni-icons/uni-icons",
+    "uni-table": "/components/uni-table/uni-table",
+    "uni-tr": "/components/uni-tr/uni-tr",
+    "uni-th": "/components/uni-th/uni-th",
+    "uni-td": "/components/uni-td/uni-td",
+    "uni-pagination": "/components/uni-pagination/uni-pagination"
+  }
+}

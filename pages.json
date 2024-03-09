@@ -1,0 +1,461 @@
+{
+  "topWindow": {
+    "path": "windows/page_header.vue",
+    "style": {
+      "height": "60px"
+    },
+    "matchMedia": {
+      "minWidth": 1200 //生效条件，当窗口宽度大于768px时显示
+    }
+  },
+  "pages": [
+    {
+      "path": "pages/index/index",
+      "style": {
+        "navigationBarTitleText": "首页"
+      }
+    },
+    {
+      "path": "pages/authorization/authorization",
+      "style": {
+        "navigationBarTitleText": "QQ授权登录",
+        "enablePullDownRefresh": false
+      }
+    },
+    {
+      "path": "pages/authorization/authorization-weixin",
+      "style": {
+        "navigationBarTitleText": "微信授权登录",
+        "enablePullDownRefresh": false
+      }
+    },
+    {
+      "path": "pages/authorization/authorization-weibo",
+      "style": {
+        "navigationBarTitleText": "微博授权登录",
+        "enablePullDownRefresh": false
+      }
+    },
+    {
+      "path": "pages/comment/edit",
+      "style": {
+        "navigationBarTitleText": "评论"
+      }
+    },
+    {
+      "path": "pages/comment/view",
+      "style": {
+        "navigationBarTitleText": "查看评论"
+      }
+    },
+    {
+      "path": "pages/account/forgot",
+      "style": {
+        "navigationBarTitleText": "找回密码"
+      }
+    },
+    {
+      "path": "pages/account/login",
+      "style": {
+        "navigationBarTitleText": "登录"
+      }
+    },
+    {
+      "path": "pages/account/register",
+      "style": {
+        "navigationBarTitleText": "注册"
+      }
+    },
+    {
+      "path": "pages/article/list",
+      "style": {
+        "navigationBarTitleText": "旅游资讯"
+      }
+    },
+    {
+      "path": "pages/article/index",
+      "style": {
+        "navigationBarTitleText": "旅游资讯列表"
+      }
+    },
+    {
+      "path": "pages/article/details",
+      "style": {
+        "navigationBarTitleText": "旅游资讯详情"
+      }
+    },
+    {
+      "path": "pages/forum/index",
+      "style": {
+        "navigationBarTitleText": "旅游论坛"
+      }
+    },
+    {
+      "path": "pages/forum/list",
+      "style": {
+        "navigationBarTitleText": "旅游论坛列表"
+      }
+    },
+    {
+      "path": "pages/forum/details",
+      "style": {
+        "navigationBarTitleText": "旅游论坛详情"
+      }
+    },
+    {
+      "path": "pages/forum/view",
+      "style": {
+        "navigationBarTitleText": "发布内容"
+      }
+    },
+    {
+      "path": "pages/forum/table",
+      "style": {
+        "navigationBarTitleText": "论坛管理"
+      }
+    },
+    {
+      "path": "pages/forum/edit",
+      "style": {
+        "navigationBarTitleText": "论坛详情"
+      }
+    },
+    {
+      "path": "pages/forum/add",
+      "style": {
+        "navigationBarTitleText": "论坛添加"
+      }
+    },
+    {
+      "path": "pages/comment/table",
+      "style": {
+        "navigationBarTitleText": "评论管理"
+      }
+    },
+    {
+      "path": "pages/notice/list",
+      "style": {
+        "navigationBarTitleText": "网站公告列表"
+      }
+    },
+    {
+      "path": "pages/notice/details",
+      "style": {
+        "navigationBarTitleText": "网站公告"
+      }
+    },
+    // 景点信息列表路由
+    {
+      "path": "pages/attraction_information/list",
+      "style": {
+        "navigationBarTitleText": "景点信息列表"
+      }
+    },
+    // 景点信息详情路由
+    {
+      "path": "pages/attraction_information/details",
+      "style": {
+        "navigationBarTitleText": "景点信息"
+      }
+    },
+    // 门票订单编辑路由
+    {
+      "path": "pages/ticket_orders/edit",
+      "style": {
+        "navigationBarTitleText": "门票订单"
+      }
+    },
+    // 餐厅信息列表路由
+    {
+      "path": "pages/restaurant_information/list",
+      "style": {
+        "navigationBarTitleText": "餐厅信息列表"
+      }
+    },
+    // 餐厅信息详情路由
+    {
+      "path": "pages/restaurant_information/details",
+      "style": {
+        "navigationBarTitleText": "餐厅信息"
+      }
+    },
+    // 餐厅订单编辑路由
+    {
+      "path": "pages/restaurant_orders/edit",
+      "style": {
+        "navigationBarTitleText": "餐厅订单"
+      }
+    },
+    // 酒店信息列表路由
+    {
+      "path": "pages/hotel_information/list",
+      "style": {
+        "navigationBarTitleText": "酒店信息列表"
+      }
+    },
+    // 酒店信息详情路由
+    {
+      "path": "pages/hotel_information/details",
+      "style": {
+        "navigationBarTitleText": "酒店信息"
+      }
+    },
+    // 酒店订单编辑路由
+    {
+      "path": "pages/hotel_orders/edit",
+      "style": {
+        "navigationBarTitleText": "酒店订单"
+      }
+    },
+    // 民宿信息列表路由
+    {
+      "path": "pages/homestay_information/list",
+      "style": {
+        "navigationBarTitleText": "民宿信息列表"
+      }
+    },
+    // 民宿信息详情路由
+    {
+      "path": "pages/homestay_information/details",
+      "style": {
+        "navigationBarTitleText": "民宿信息"
+      }
+    },
+    // 民宿订单编辑路由
+    {
+      "path": "pages/homestay_orders/edit",
+      "style": {
+        "navigationBarTitleText": "民宿订单"
+      }
+    },
+    // 普通用户列表路由
+    {
+      "path": "pages/regular_users/table",
+      "style": {
+        "navigationBarTitleText": "普通用户列表"
+      }
+    },
+    // 普通用户编辑路由
+    {
+      "path": "pages/regular_users/view",
+      "style": {
+        "navigationBarTitleText": "普通用户详情"
+      }
+    },
+    // 商家用户列表路由
+    {
+      "path": "pages/merchant_users/table",
+      "style": {
+        "navigationBarTitleText": "商家用户列表"
+      }
+    },
+    // 商家用户编辑路由
+    {
+      "path": "pages/merchant_users/view",
+      "style": {
+        "navigationBarTitleText": "商家用户详情"
+      }
+    },
+    // 景点信息列表路由
+    {
+      "path": "pages/attraction_information/table",
+      "style": {
+        "navigationBarTitleText": "景点信息列表"
+      }
+    },
+    // 景点信息编辑路由
+    {
+      "path": "pages/attraction_information/view",
+      "style": {
+        "navigationBarTitleText": "景点信息详情"
+      }
+    },
+    // 门票订单列表路由
+    {
+      "path": "pages/ticket_orders/table",
+      "style": {
+        "navigationBarTitleText": "门票订单列表"
+      }
+    },
+    // 门票订单编辑路由
+    {
+      "path": "pages/ticket_orders/view",
+      "style": {
+        "navigationBarTitleText": "门票订单详情"
+      }
+    },
+    // 餐厅信息列表路由
+    {
+      "path": "pages/restaurant_information/table",
+      "style": {
+        "navigationBarTitleText": "餐厅信息列表"
+      }
+    },
+    // 餐厅信息编辑路由
+    {
+      "path": "pages/restaurant_information/view",
+      "style": {
+        "navigationBarTitleText": "餐厅信息详情"
+      }
+    },
+    // 餐厅订单列表路由
+    {
+      "path": "pages/restaurant_orders/table",
+      "style": {
+        "navigationBarTitleText": "餐厅订单列表"
+      }
+    },
+    // 餐厅订单编辑路由
+    {
+      "path": "pages/restaurant_orders/view",
+      "style": {
+        "navigationBarTitleText": "餐厅订单详情"
+      }
+    },
+    // 酒店信息列表路由
+    {
+      "path": "pages/hotel_information/table",
+      "style": {
+        "navigationBarTitleText": "酒店信息列表"
+      }
+    },
+    // 酒店信息编辑路由
+    {
+      "path": "pages/hotel_information/view",
+      "style": {
+        "navigationBarTitleText": "酒店信息详情"
+      }
+    },
+    // 酒店订单列表路由
+    {
+      "path": "pages/hotel_orders/table",
+      "style": {
+        "navigationBarTitleText": "酒店订单列表"
+      }
+    },
+    // 酒店订单编辑路由
+    {
+      "path": "pages/hotel_orders/view",
+      "style": {
+        "navigationBarTitleText": "酒店订单详情"
+      }
+    },
+    // 民宿信息列表路由
+    {
+      "path": "pages/homestay_information/table",
+      "style": {
+        "navigationBarTitleText": "民宿信息列表"
+      }
+    },
+    // 民宿信息编辑路由
+    {
+      "path": "pages/homestay_information/view",
+      "style": {
+        "navigationBarTitleText": "民宿信息详情"
+      }
+    },
+    // 民宿订单列表路由
+    {
+      "path": "pages/homestay_orders/table",
+      "style": {
+        "navigationBarTitleText": "民宿订单列表"
+      }
+    },
+    // 民宿订单编辑路由
+    {
+      "path": "pages/homestay_orders/view",
+      "style": {
+        "navigationBarTitleText": "民宿订单详情"
+      }
+    },
+    {
+      "path": "pages/user/collect",
+      "style": {
+        "navigationBarTitleText": "我的收藏"
+      }
+    },
+    {
+      "path": "pages/user/index",
+      "style": {
+        "navigationBarTitleText": "我"
+      }
+    },
+    {
+      "path": "pages/user/password",
+      "style": {
+        "navigationBarTitleText": "修改密码"
+      }
+    },
+    {
+      "path": "pages/user/info",
+      "style": {
+        "navigationBarTitleText": "基本信息"
+      }
+    },
+    {
+      "path": "pages/user_center/index",
+      "style": {
+        "navigationBarTitleText": "",
+        "enablePullDownRefresh": false
+      }
+    }
+  ],
+  "globalStyle": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "项目",
+    "navigationBarBackgroundColor": "#F8F8F8",
+    "backgroundColor": "#F8F8F8",
+    "app-plus": {
+      "background": "#efeff4"
+    }
+  },
+  "tabBar": {
+    "color": "#8a8a8a",
+    "selectedColor": "#3388FF",
+    "borderStyle": "black",
+    "backgroundColor": "#ffffff",
+    "list": [
+      {
+        "pagePath": "pages/index/index",
+        "text": "首页",
+        "iconPath": "static/img/home_a.png",
+        "selectedIconPath": "static/img/home_b.png"
+      },
+      {
+        "pagePath": "pages/forum/index",
+        "text": "旅游论坛",
+        "iconPath": "static/img/forum_a.png",
+        "selectedIconPath": "static/img/forum_b.png"
+      },
+      {
+        "pagePath": "pages/article/index",
+        "text": "旅游资讯",
+        "iconPath": "static/img/article_a.png",
+        "selectedIconPath": "static/img/article_b.png"
+      },
+      {
+        "pagePath": "pages/user/index",
+        "text": "我的",
+        "iconPath": "static/img/my_a.png",
+        "selectedIconPath": "static/img/my_b.png"
+      }
+    ]
+  },
+  "condition": {
+    //模式配置，仅开发期间生效
+    "current": 0, //当前激活的模式(list 的索引项)
+    "list": [
+      {
+        "name": "", //模式名称
+        "path": "", //启动页面，必选
+        "query": "" //启动参数，在页面的onLoad函数里面得到
+      }
+    ]
+  },
+  "easycom": {
+    "autoscan": true,
+    "custom": {
+      "^mm_(.*)": "@/components/mm_vue_ui/base/mm_$1.vue"
+    }
+  }
+}

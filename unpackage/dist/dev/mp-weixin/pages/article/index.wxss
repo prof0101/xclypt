@@ -1,0 +1,31 @@
+
+#article_list.data-v-2a986250 {
+}
+#article_list .pager.data-v-2a986250 {
+  margin-top: 1rem;
+}
+#article_list .list_orderby.data-v-2a986250 {
+  display: flex;
+  justify-content: flex-end;
+  background-color: #ffffff;
+  border-top: 5px double #ccc;
+  border-bottom: 5px double #ccc;
+  margin-right: -1px;
+}
+#article_list .list_orderby .bar_orderby.data-v-2a986250 {
+  border-left: 1px solid #ccc;
+}
+#article_list .warp_article.data-v-2a986250 {
+  background-color: #fff;
+}
+#article_list .tab_view.data-v-2a986250 {
+  background-color: #ffffff;
+  margin: 0 auto;
+}
+#article_list .dropdown_article.data-v-2a986250 {
+  line-height: 40px;
+}
+.article_page_down.data-v-2a986250 {
+  padding-bottom: 60px;
+}
+

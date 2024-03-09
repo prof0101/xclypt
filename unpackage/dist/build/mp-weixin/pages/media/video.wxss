@@ -1,0 +1,16 @@
+#myVideo.data-v-23318c3b {
+  width: 100%;
+}
+#media_video.data-v-23318c3b {
+  height: calc(100vh - 2.75rem);
+  position: relative;
+  width: 100%;
+}
+#media_video .form.data-v-23318c3b {
+  margin-top: 1rem;
+}
+#media_video input.data-v-23318c3b {
+  height: 2.75rem;
+  border: 1px solid #dbdbdb;
+  padding: 0 0.5rem;
+}

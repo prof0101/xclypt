@@ -1,0 +1,112 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/authorization/authorization",
+    "pages/authorization/authorization-weixin",
+    "pages/authorization/authorization-weibo",
+    "pages/comment/edit",
+    "pages/comment/view",
+    "pages/account/forgot",
+    "pages/account/login",
+    "pages/account/register",
+    "pages/article/list",
+    "pages/article/index",
+    "pages/article/details",
+    "pages/forum/index",
+    "pages/forum/list",
+    "pages/forum/details",
+    "pages/forum/view",
+    "pages/forum/table",
+    "pages/forum/edit",
+    "pages/forum/add",
+    "pages/comment/table",
+    "pages/notice/list",
+    "pages/notice/details",
+    "pages/attraction_information/list",
+    "pages/attraction_information/details",
+    "pages/ticket_orders/edit",
+    "pages/restaurant_information/list",
+    "pages/restaurant_information/details",
+    "pages/restaurant_orders/edit",
+    "pages/hotel_information/list",
+    "pages/hotel_information/details",
+    "pages/hotel_orders/edit",
+    "pages/homestay_information/list",
+    "pages/homestay_information/details",
+    "pages/homestay_orders/edit",
+    "pages/regular_users/table",
+    "pages/regular_users/view",
+    "pages/merchant_users/table",
+    "pages/merchant_users/view",
+    "pages/attraction_information/table",
+    "pages/attraction_information/view",
+    "pages/ticket_orders/table",
+    "pages/ticket_orders/view",
+    "pages/restaurant_information/table",
+    "pages/restaurant_information/view",
+    "pages/restaurant_orders/table",
+    "pages/restaurant_orders/view",
+    "pages/hotel_information/table",
+    "pages/hotel_information/view",
+    "pages/hotel_orders/table",
+    "pages/hotel_orders/view",
+    "pages/homestay_information/table",
+    "pages/homestay_information/view",
+    "pages/homestay_orders/table",
+    "pages/homestay_orders/view",
+    "pages/user/collect",
+    "pages/user/index",
+    "pages/user/password",
+    "pages/user/info",
+    "pages/user_center/index"
+  ],
+  "subPackages": [],
+  "window": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "项目",
+    "navigationBarBackgroundColor": "#F8F8F8",
+    "backgroundColor": "#F8F8F8"
+  },
+  "tabBar": {
+    "color": "#8a8a8a",
+    "selectedColor": "#3388FF",
+    "borderStyle": "black",
+    "backgroundColor": "#ffffff",
+    "list": [
+      {
+        "pagePath": "pages/index/index",
+        "text": "首页",
+        "iconPath": "static/img/home_a.png",
+        "selectedIconPath": "static/img/home_b.png"
+      },
+      {
+        "pagePath": "pages/forum/index",
+        "text": "旅游论坛",
+        "iconPath": "static/img/forum_a.png",
+        "selectedIconPath": "static/img/forum_b.png"
+      },
+      {
+        "pagePath": "pages/article/index",
+        "text": "旅游资讯",
+        "iconPath": "static/img/article_a.png",
+        "selectedIconPath": "static/img/article_b.png"
+      },
+      {
+        "pagePath": "pages/user/index",
+        "text": "我的",
+        "iconPath": "static/img/my_a.png",
+        "selectedIconPath": "static/img/my_b.png"
+      }
+    ]
+  },
+  "permission": {
+    "scope.userLocation": {
+      "desc": "你的位置信息将用于小程序位置接口的效果展示"
+    }
+  },
+  "requiredPrivateInfos": [
+    "getLocation",
+    "chooseLocation"
+  ],
+  "usingComponents": {}
+}

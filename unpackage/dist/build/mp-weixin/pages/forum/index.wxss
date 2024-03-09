@@ -1,0 +1,18 @@
+.page_forum.data-v-4e286bfa {
+  padding: 0 10px;
+}
+.page_forum .change.data-v-4e286bfa {
+  display: flex;
+  align-items: center;
+}
+.page_forum .change .button.data-v-4e286bfa {
+  background-color: #0154ba;
+  width: 50%;
+  display: block;
+  line-height: 36px;
+  margin: 8px;
+  text-align: center;
+  color: #fff;
+  border-radius: 5px;
+  font-size: 14px;
+}

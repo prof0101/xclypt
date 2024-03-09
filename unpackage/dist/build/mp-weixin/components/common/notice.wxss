@@ -1,0 +1,17 @@
+.swiper_notice.data-v-dc81ced4 {
+  position: relative;
+  padding: 0.5rem 0.75rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.icon_sound.data-v-dc81ced4 {
+  position: absolute;
+  left: 1rem;
+}
+.notice.data-v-dc81ced4 {
+  margin-left: 5px;
+  height: 2rem;
+  text-align: center;
+  width: 100%;
+}

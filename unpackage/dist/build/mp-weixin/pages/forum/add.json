@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "论坛添加",
+  "usingComponents": {
+    "uni-data-select": "/components/uni-data-select/uni-data-select",
+    "bar_title": "/components/diy/bar_title"
+  }
+}

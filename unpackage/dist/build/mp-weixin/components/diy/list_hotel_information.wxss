@@ -1,0 +1,182 @@
+.list_hotel_information.data-v-73cfb1de {
+  margin-bottom: 1rem;
+}
+.list_hotel_information .list_hotel_information_table.data-v-73cfb1de {
+  width: 100%;
+  padding: 5px 0;
+}
+.list_hotel_information
+  .list_hotel_information_table
+  .btn_change_table.data-v-73cfb1de {
+  margin-left: auto;
+  font-weight: 700;
+  padding: 0.5rem 0;
+  width: 100px;
+  text-align: center;
+  font-size: 0.875rem;
+  border: 1px solid #ccc;
+  border-radius: 1rem;
+  margin-bottom: 0.25rem;
+}
+.list_hotel_information
+  .list_hotel_information_table
+  .hotel_information_table_block
+  .uni-table-td.data-v-73cfb1de {
+  padding: 8px;
+}
+.list_hotel_information
+  .list_hotel_information_table
+  .hotel_information_table_block
+  .image.data-v-73cfb1de {
+  width: 10%;
+}
+.list_hotel_information
+  .list_hotel_information_table
+  .hotel_information_table_block
+  .text.data-v-73cfb1de {
+  overflow: hidden;
+  width: 30%;
+  font-size: 0.5rem;
+}
+.list_hotel_information
+  .list_hotel_information_table
+  .hotel_information_table_block
+  .hits.data-v-73cfb1de {
+  width: 12%;
+  font-size: 0.5rem;
+}
+.list_hotel_information
+  .list_hotel_information_table
+  .hotel_information_table_block
+  .praise.data-v-73cfb1de {
+  width: 12%;
+  font-size: 0.5rem;
+}
+.list_hotel_information
+  .list_hotel_information_table
+  .hotel_information_table_block
+  .create_time.data-v-73cfb1de {
+  width: 26%;
+  font-size: 0.5rem;
+}
+.list_hotel_information .item_hotel_information.data-v-73cfb1de {
+  display: flex;
+  justify-content: space-between;
+  align-items: stretch;
+  padding: 0.75rem 1rem;
+}
+.list_hotel_information
+  .item_hotel_information
+  + .item_hotel_information.data-v-73cfb1de {
+  border-top: 1px solid #dbdbdb;
+}
+.list_hotel_information .item_hotel_information .left > image.data-v-73cfb1de {
+  position: relative;
+  top: 50%;
+  -webkit-transform: translateY(-50%);
+  transform: translateY(-50%);
+  border-radius: 0.5rem;
+}
+.list_hotel_information .item_hotel_information .right_block.data-v-73cfb1de {
+  width: calc(100% - 5rem);
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+.list_hotel_information .top.data-v-73cfb1de {
+  font-size: 0.9rem;
+}
+.list_hotel_information .time.data-v-73cfb1de {
+  font-size: 0.6rem;
+  color: var(--color_grey);
+}
+.list_hotel_information .bottom.data-v-73cfb1de {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  font-size: 0.5rem;
+  color: var(--color_grey);
+}
+.list_hotel_information .see.data-v-73cfb1de {
+  margin-left: 1rem;
+}
+.box_wrap.data-v-73cfb1de {
+  padding: 0.75rem;
+}
+.box_style.data-v-73cfb1de {
+  margin-bottom: 0.75rem;
+  padding: 0.375rem;
+  display: inline-block !important;
+  border: 0.075rem solid #ccc;
+  border-radius: 0.375rem;
+  overflow: hidden;
+}
+.box_style.data-v-73cfb1de:nth-child(even) {
+  margin-left: 0.6rem;
+}
+.box_style.data-v-73cfb1de:nth-child(even) {
+  margin-left: 0.6rem;
+}
+.bottom-view.data-v-73cfb1de,
+.create_time_block.data-v-73cfb1de {
+  font-size: 12px;
+  color: #666;
+}
+.bottom-view view.data-v-73cfb1de {
+  display: inline-block;
+}
+.bottom-view ._span.data-v-73cfb1de {
+  margin-left: 5px;
+  margin-right: 10px;
+}
+.list_com--new .box_wrap.data-v-73cfb1de {
+  display: flex;
+  flex-wrap: wrap;
+  padding-left: 0 !important;
+  padding-right: 0 !important;
+  justify-content: space-between;
+}
+.list_com--new .box_style.data-v-73cfb1de:nth-child(even) {
+  margin-left: 0 !important;
+}
+.list_com--new .box_wrap .box_style.data-v-73cfb1de {
+  display: inline-block !important;
+  width: 48%;
+  max-width: 48%;
+  overflow: hidden;
+  border-color: var(--color_primary);
+  box-sizing: border-box;
+  padding: 8px !important;
+}
+.list_com--new .view.data-v-73cfb1de {
+  display: flex;
+  overflow: hidden;
+  width: 100%;
+}
+.list_com--new .view .title ._span.data-v-73cfb1de {
+  white-space: nowrap;
+}
+.list_com--new .view .text.data-v-73cfb1de {
+  display: flex;
+  color: var(--color_primary);
+  margin-left: 10px;
+  border-bottom: 1px solid #ccc;
+  white-space: nowrap;
+}
+.list_com--new .view .text ._span.data-v-73cfb1de {
+  max-width: 100px;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+.list_com--new .view .number.data-v-73cfb1de {
+  color: var(--color_primary);
+}
+.list_com--new .view .image.data-v-73cfb1de {
+  width: 100%;
+  border-bottom: 1px solid #ccc;
+  margin-top: 5px;
+}
+.list_com--new .diy_field.text.data-v-73cfb1de {
+  overflow: hidden;
+  margin-right: -8px;
+}

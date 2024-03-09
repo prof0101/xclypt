@@ -1,0 +1,14 @@
+.top_handle.data-v-ab845258 {
+  position: relative;
+  height: 2.6rem;
+  width: 100%;
+}
+.dropdown_box.data-v-ab845258 {
+  width: 100%;
+  display: flex;
+  position: absolute;
+  z-index: 1000;
+}
+.dropdown_collect.data-v-ab845258 {
+  line-height: 40px;
+}

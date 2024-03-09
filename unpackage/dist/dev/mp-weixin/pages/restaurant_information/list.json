@@ -1,0 +1,10 @@
+{
+  "navigationBarTitleText": "餐厅信息列表",
+  "usingComponents": {
+    "uni-search-bar": "/components/uni-search-bar/uni-search-bar",
+    "uni-icons": "/components/uni-icons/uni-icons",
+    "uni-pagination": "/components/uni-pagination/uni-pagination",
+    "list_tab": "/components/diy/list_tab",
+    "bar_orderby": "/components/diy/bar_orderby"
+  }
+}

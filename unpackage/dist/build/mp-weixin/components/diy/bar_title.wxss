@@ -1,0 +1,22 @@
+.bar_title.data-v-680a49fc {
+  position: relative;
+  background-color: #fff;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 2px;
+}
+.title.data-v-680a49fc {
+  margin: 0 auto;
+  color: var(--color_primary);
+  font-weight: 600;
+}
+.more.data-v-680a49fc {
+  position: absolute;
+  right: 0;
+  font-size: 0.875rem;
+  color: var(--color_primary);
+  height: 100%;
+  overflow: hidden;
+  font-weight: 600;
+}

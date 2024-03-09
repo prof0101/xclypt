@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "餐厅订单",
+  "usingComponents": {
+    "uni-data-select": "/components/uni-data-select/uni-data-select",
+    "uni-datetime-picker": "/components/uni-datetime-picker/uni-datetime-picker"
+  }
+}

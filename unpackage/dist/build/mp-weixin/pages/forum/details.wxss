@@ -1,0 +1,19 @@
+.page_forum.data-v-900dc372 {
+  background: #f7f7f7;
+  padding-bottom: 1rem;
+}
+.bar_title.data-v-900dc372 {
+  background: none;
+}
+.recommend.data-v-900dc372 {
+  margin: 0.5rem;
+  background: #fff;
+  border-radius: 0.5rem;
+  overflow: hidden;
+}
+.link.data-v-900dc372 {
+  text-align: center;
+  padding: 0.5rem 0;
+  border: 1px solid #dbdbdb;
+  border-radius: 0.5rem;
+}

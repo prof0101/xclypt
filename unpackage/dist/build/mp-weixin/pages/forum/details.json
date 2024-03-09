@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "旅游论坛详情",
+  "usingComponents": {
+    "uni-card": "/components/uni-card/uni-card",
+    "bar_title": "/components/diy/bar_title",
+    "div_forum": "/components/diy/div_forum",
+    "list_comment": "/components/diy/list_comment"
+  }
+}
